@@ -21,7 +21,7 @@ Establish a Project 1 remote repository in GitHub. This is vital to your success
 2.	Understand the use-cases of the ERS system
 Any good developer needs to understand what the requirements are really asking. When starting from scratch, it is imperative that a developer begins with a plan for the user experience and an outline of the functionality requirements. Review the diagram below:
   
-![activity diagram](./images/activity_diagram.png)
+![activity diagram](.activity_diagram.png)
 
 ### Functional Requirements
 This project’s purpose is to allow associates to develop features in a self-guided environment. Completion of this project will finalize a working ERS application before the foundations project presentation. The main goal is to build the application into a working API that satisfies all the core functionality required.
